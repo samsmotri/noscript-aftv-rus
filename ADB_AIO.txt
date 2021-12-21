@@ -1,0 +1,1 @@
+pm disable-user --user 0 com.amazon.vizzini && pm grant com.google.android.katniss android.permission.SYSTEM_ALERT_WINDOW && pm grant com.google.android.katniss android.permission.RECORD_AUDIO
